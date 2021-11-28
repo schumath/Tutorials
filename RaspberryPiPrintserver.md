@@ -3,7 +3,13 @@
 This tutorial describs how to set up as Raspberry Pi as print server for a USB or network printer.
 CUPS is used as printserver. Avahi-daemon (Bonjour) is used to make the printer easy to install on Windows devices.
 
-Possible cases:
+This is nice for:
+
+- turning a usb printer into a network printer
+
+- provide network printers hustle free for windows, linux and mac devices. No more messing around with complicated driver installations on every single device.
+
+Possible use cases:
 
 ![](assets/2021-11-28-18-21-36-image.png)
 
