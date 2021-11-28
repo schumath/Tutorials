@@ -190,3 +190,5 @@ DE: Start > Einstellungen > Geräte > Drucker & Scanner > Drucker oder Scanner h
 Here you should see the printer. Click on it and then `Add device / Gerät hinzufügen`
 
 ![](assets/2021-11-28-17-41-24-image.png)
+
+Enjoy printing :)
