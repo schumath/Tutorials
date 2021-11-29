@@ -117,7 +117,7 @@ ip addr
 and enter the ip-adress of the raspberry with port 631 in the browser
 
 ```
-https://192.168.0.168:631
+https://192.168.0.XXX:631
 ```
 
 Because there is no valid HTTPS-Cerificate you have to accept that in the browser and continue to the site. Click `Advanced` and `Proceed to 192.168.0.XXX (unsafe)`.
